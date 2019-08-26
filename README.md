@@ -1,6 +1,5 @@
 # hello-world
 test
 
-
-hello.
-goodbye.
+try again.
+hello john, goodbye john.
